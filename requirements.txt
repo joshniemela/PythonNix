@@ -1,0 +1,5 @@
+numpy
+scipy
+pandas
+flit-core # needed for pandas
+matplotlib
