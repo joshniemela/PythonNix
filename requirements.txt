@@ -1,5 +1,3 @@
+# Package requirements go here
 numpy
-scipy
-pandas
-flit-core # needed for pandas
 matplotlib
